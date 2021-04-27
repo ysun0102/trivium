@@ -3,11 +3,11 @@ This is the repository for the paper "Cube Attack against 843-Round Trivium", Cr
 
 ## Contents
 
-[Code for verifying parts of the superpoly for 843-round Trivium]: trivium_verify.cpp.
+1. Code for verifying parts of the superpoly for 843-round Trivium: trivium_verify.cpp.
 
-[Monomials in the superpoly for the cube {0, 1, ..., 79}/{30, 76}]: superpoly/raw_monomials, superpoly/superpoly_monomials.
+2. Monomials in the superpoly for the cube {0, 1, ..., 79}/{30, 76}: superpoly/raw_monomials, superpoly/superpoly_monomials.
 
-[Logs for computed results]: log/trivium_verify_843_1_key*.log.
+3. Logs for computed results: log/trivium_verify_843_1_key*.log.
 
 ## Usage of the Codes
 
